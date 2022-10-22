@@ -11,5 +11,6 @@
     "ecmascript"
   ],
   "author": "Miguel Angel Osornio <miguelos1128@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
