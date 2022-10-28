@@ -13,3 +13,6 @@ newUser('david',15,'CO');
 function newAdmin(name = 'oscar', age = 24, country  = 'MX'){
     console.log(name, age, country);
 }
+
+newAdmin();
+newAdmin('mike', 12, 'AR');
