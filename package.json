@@ -12,5 +12,8 @@
   ],
   "author": "Miguel Angel Osornio <miguelos1128@gmail.com>",
   "license": "MIT",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  }
 }
